@@ -21,7 +21,7 @@ titanic dataset, you're encouraged to compare and elaborate on aspects
 of your story with other data found
 [elsewhere](https://www.encyclopedia-titanica.org/). Try to understand
 the limits of the dataset to answer questions you may have about the
-event. When might you need other data?
+event.  When might you need other data?
 
 
 ## Citations and Further Reading
