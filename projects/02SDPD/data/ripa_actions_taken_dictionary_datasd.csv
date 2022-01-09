@@ -1,0 +1,5 @@
+field,field_type,description,possible_values
+stop_id,int64,unique identifer for stop,
+pid,int64,unique identifer for person on a stop,
+action,str,officer's actions toward the person stopped,https://oag.ca.gov/sites/all/files/agweb/pdfs/ripa/stop-data-reg-final-text-110717.pdf?
+consented,str,response by person stopped if officer asked for consent to search,Yes or blank
