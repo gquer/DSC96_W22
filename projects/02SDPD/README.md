@@ -32,11 +32,11 @@ A few sample questions to pursue, to get you started:
 
 ## Assignment 1:
 
-* When is it due: Tuesday 19, 8.59pm
-* Which data can I use: Any SDPD data in this folder.
+* When is it due: Tuesday 18, 4.59pm
+* Which data can I use: Any SDPD data in Tableau.
 * What to do: You need to complete your analysis on the Tableau Online platform, defining your question, answering with clear figures and reporting in a Dashboard
 * What to submit: One pdf, obtained from your Dashboard, clearly explaining what you wanted to do and what you discovered.
-* How to submit: You should send your pdf as a Direct message to me (Giorgio Quer) in Slack.
+* How to submit: You should send your pdf as a Direct message to Instructor (Giorgio Quer) in Slack.
 
 ### Helpful Links
 
